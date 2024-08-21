@@ -1,0 +1,3 @@
+[submodule "FOC-brushless-motor"]
+	path = FOC-brushless-motor
+	url = https://github.com/absurdnut/FOC-brushless-motor.git
